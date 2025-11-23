@@ -1,0 +1,3 @@
+[submodule "nextjs-app"]
+	path = nextjs-app
+	url = ./nextjs-app
